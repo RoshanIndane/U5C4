@@ -42,6 +42,16 @@
       "theme": "technology",
       "description": "Random Event",
       "image": "https://images.unsplash.com/photo"
+    },
+    {
+      "id": 3,
+      "title": " Strech",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23",
+      "theme": "tecy",
+      "description": " Event",
+      "image": "https://images.unsplash.com/photo"
     }
   ]
 }
